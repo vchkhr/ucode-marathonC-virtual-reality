@@ -12,4 +12,4 @@ Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Se
 `clang -std=c11 -Wall -Wextra -Werror -Wpedantic mx_cube.c main_cube.c mx_printchar.c -o mx_cube`
 2. Run:\
 `./mx_cube | cat -e`\
-`./mx_pyramid | cat -e`\
+`./mx_pyramid | cat -e`
